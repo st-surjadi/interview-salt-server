@@ -35,5 +35,116 @@
       "name": "Channels",
       "link": "channels"
     }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "name": "How to improve your skills",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/53265/pexels-photo-53265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 2,
+      "name": "How to improve your skills",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/53265/pexels-photo-53265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "name": "How to improve your skills",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/53265/pexels-photo-53265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 4,
+      "name": "How to improve your skills",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/53265/pexels-photo-53265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 5,
+      "name": "How to improve your skills",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/53265/pexels-photo-53265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "documents": [
+    {
+      "id": 1,
+      "name": "Mobile UI & UX",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 2,
+      "name": "Mobile UI & UX",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "name": "Mobile UI & UX",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 4,
+      "name": "Mobile UI & UX",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 5,
+      "name": "Mobile UI & UX",
+      "uploader": "Waseem Arshad",
+      "count_view": 148392,
+      "image": "https://images.pexels.com/photos/48148/document-agreement-documents-sign-48148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
+  ],
+  "people": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "occupation": "User Interface Engineer",
+      "follower": 123432,
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 2,
+      "name": "John Doe",
+      "occupation": "User Interface Engineer",
+      "follower": 123432,
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 3,
+      "name": "John Doe",
+      "occupation": "User Interface Engineer",
+      "follower": 123432,
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 4,
+      "name": "John Doe",
+      "occupation": "User Interface Engineer",
+      "follower": 123432,
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "occupation": "User Interface Engineer",
+      "follower": 123432,
+      "image": "https://images.pexels.com/photos/39866/entrepreneur-startup-start-up-man-39866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+    }
   ]
 }
