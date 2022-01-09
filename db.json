@@ -3,6 +3,30 @@
     {
       "id": 1,
       "name": "Videos"
+    },
+    {
+      "id": 2,
+      "name": "People"
+    },
+    {
+      "id": 3,
+      "name": "Documents"
+    },
+    {
+      "id": 4,
+      "name": "Events"
+    },
+    {
+      "id": 5,
+      "name": "Communities"
+    },
+    {
+      "id": 6,
+      "name": "Favorites"
+    },
+    {
+      "id": 7,
+      "name": "Channels"
     }
   ]
 }
