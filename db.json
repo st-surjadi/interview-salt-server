@@ -2,31 +2,38 @@
   "navigation": [
     {
       "id": 1,
-      "name": "Videos"
+      "name": "Videos",
+      "link": "video"
     },
     {
       "id": 2,
-      "name": "People"
+      "name": "People",
+      "link": "people"
     },
     {
       "id": 3,
-      "name": "Documents"
+      "name": "Documents",
+      "link": "people"
     },
     {
       "id": 4,
-      "name": "Events"
+      "name": "Events",
+      "link": "events"
     },
     {
       "id": 5,
-      "name": "Communities"
+      "name": "Communities",
+      "link": "communities"
     },
     {
       "id": 6,
-      "name": "Favorites"
+      "name": "Favorites",
+      "link": "favorites"
     },
     {
       "id": 7,
-      "name": "Channels"
+      "name": "Channels",
+      "link": "channels"
     }
   ]
 }
